@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",A&E
+http://23.237.22.230:25461/darkiptv/darkiptv/2
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",AMC
+http://23.237.22.230:25461/darkiptv/darkiptv/136
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",AXN
+http://23.237.22.230:25461/darkiptv/darkiptv/7
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Caracol
+http://23.237.22.230:25461/darkiptv/darkiptv/612
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Comedy Central
+http://23.237.22.230:25461/darkiptv/darkiptv/25
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Distrito Comedia
+http://23.237.22.230:25461/darkiptv/darkiptv/38
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",E
+http://23.237.22.230:25461/darkiptv/darkiptv/40
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FOX
+http://23.237.22.230:25461/darkiptv/darkiptv/50
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FX
+http://23.237.22.230:25461/darkiptv/darkiptv/61
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FXM
+http://23.237.22.230:25461/darkiptv/darkiptv/62
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",Bandamax
+http://23.237.22.230:25461/darkiptv/darkiptv/14
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",MTV Live
+http://23.237.22.230:25461/darkiptv/darkiptv/79
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",Ritmoson
+http://23.237.22.230:25461/darkiptv/darkiptv/93
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",Telehit
+http://23.237.22.230:25461/darkiptv/darkiptv/105
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",Teleritmo
+http://23.237.22.230:25461/darkiptv/darkiptv/107
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",VH1
+http://23.237.22.230:25461/darkiptv/darkiptv/125
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",MTV Hits
+http://23.237.22.230:25461/darkiptv/darkiptv/94
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",Concert
+http://23.237.22.230:25461/darkiptv/darkiptv/597
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",ESPN
+http://23.237.22.230:25461/darkiptv/darkiptv/41
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",ESPN
+http://23.237.22.230:25461/darkiptv/darkiptv/43
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",ESPN Plus
+http://23.237.22.230:25461/darkiptv/darkiptv/45
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport
+http://23.237.22.230:25461/darkiptv/darkiptv/558
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport 2
+http://23.237.22.230:25461/darkiptv/darkiptv/557
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport 3
+http://23.237.22.230:25461/darkiptv/darkiptv/556
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport MX
+http://23.237.22.230:25461/darkiptv/darkiptv/193
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport 2 MX
+http://23.237.22.230:25461/darkiptv/darkiptv/194
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Fox Sport 3 MX
+http://23.237.22.230:25461/darkiptv/darkiptv/195
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Directv Sport
+http://23.237.22.230:25461/darkiptv/darkiptv/230
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",Univision TDN
+http://23.237.22.230:25461/darkiptv/darkiptv/241
+
+#EXTINF:-1 tvg-logo=".png" group-title="Deportes",TDN
+http://23.237.22.230:25461/darkiptv/darkiptv/245
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Studio Universal
+http://23.237.22.230:25461/darkiptv/darkiptv/100
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Sundance
+http://23.237.22.230:25461/darkiptv/darkiptv/101
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Syfy
+http://23.237.22.230:25461/darkiptv/darkiptv/102
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TBS
+http://23.237.22.230:25461/darkiptv/darkiptv/103
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TCM
+http://23.237.22.230:25461/darkiptv/darkiptv/104
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TNT
+http://23.237.22.230:25461/darkiptv/darkiptv/113
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TNT Series
+http://23.237.22.230:25461/darkiptv/darkiptv/114
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Multipremier
+http://23.237.22.230:25461/darkiptv/darkiptv/515
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cinemax
+http://23.237.22.230:25461/darkiptv/darkiptv/135
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cinema Plus
+http://23.237.22.230:25461/darkiptv/darkiptv/606
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",MTV
+http://23.237.22.230:25461/darkiptv/darkiptv/1
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",E
+http://23.237.22.230:25461/darkiptv/darkiptv/40
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FOX
+http://23.237.22.230:25461/darkiptv/darkiptv/50
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FX
+http://23.237.22.230:25461/darkiptv/darkiptv/61
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",FXM
+http://23.237.22.230:25461/darkiptv/darkiptv/62
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",TlNovelas
+http://23.237.22.230:25461/darkiptv/darkiptv/106
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",TruTv
+http://23.237.22.230:25461/darkiptv/darkiptv/117
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Unicable
+http://23.237.22.230:25461/darkiptv/darkiptv/123
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Warner Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/127
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",LifeTime
+http://23.237.22.230:25461/darkiptv/darkiptv/129
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",RCN Novela
+http://23.237.22.230:25461/darkiptv/darkiptv/500
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Telemundo
+http://23.237.22.230:25461/darkiptv/darkiptv/485
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Univision
+http://23.237.22.230:25461/darkiptv/darkiptv/196
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Film&Arts
+http://23.237.22.230:25461/darkiptv/darkiptv/47
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Food Network
+http://23.237.22.230:25461/darkiptv/darkiptv/48
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Fox Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/52
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Mas Chic
+http://23.237.22.230:25461/darkiptv/darkiptv/78
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Sony
+http://23.237.22.230:25461/darkiptv/darkiptv/97
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Universal Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/124
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Space
+http://23.237.22.230:25461/darkiptv/darkiptv/98
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Fashion
+http://23.237.22.230:25461/darkiptv/darkiptv/158
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",TLC
+http://23.237.22.230:25461/darkiptv/darkiptv/111
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cine Latino
+http://23.237.22.230:25461/darkiptv/darkiptv/607
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cinemax
+http://23.237.22.230:25461/darkiptv/darkiptv/144
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Morbido
+http://23.237.22.230:25461/darkiptv/darkiptv/146
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Euro Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/567
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",DHE
+http://23.237.22.230:25461/darkiptv/darkiptv/592
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Azteca Cinema
+http://23.237.22.230:25461/darkiptv/darkiptv/9
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cine canal
+http://23.237.22.230:25461/darkiptv/darkiptv/21
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",De Pelicula
+http://23.237.22.230:25461/darkiptv/darkiptv/26
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",De Pelicula 2
+http://23.237.22.230:25461/darkiptv/darkiptv/27
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Golden
+http://23.237.22.230:25461/darkiptv/darkiptv/63
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Edge
+http://23.237.22.230:25461/darkiptv/darkiptv/64
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Paramount
+http://23.237.22.230:25461/darkiptv/darkiptv/90
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Studio Universal
+http://23.237.22.230:25461/darkiptv/darkiptv/100
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Sundance
+http://23.237.22.230:25461/darkiptv/darkiptv/101
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Syfy
+http://23.237.22.230:25461/darkiptv/darkiptv/102
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TBS
+http://23.237.22.230:25461/darkiptv/darkiptv/103
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TCM
+http://23.237.22.230:25461/darkiptv/darkiptv/104
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TNT
+http://23.237.22.230:25461/darkiptv/darkiptv/113
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",TNT Series
+http://23.237.22.230:25461/darkiptv/darkiptv/114
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Multipremier
+http://23.237.22.230:25461/darkiptv/darkiptv/515
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cinemax
+http://23.237.22.230:25461/darkiptv/darkiptv/135
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cine y Series",Cinema Plus
+http://23.237.22.230:25461/darkiptv/darkiptv/606
+
+#EXTINF:-1 tvg-logo=".png" group-title="Musica",MTV
+http://23.237.22.230:25461/darkiptv/darkiptv/1
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Baby First
+http://23.237.22.230:25461/darkiptv/darkiptv/13
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Boomerang
+http://23.237.22.230:25461/darkiptv/darkiptv/17
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Cartoon Network
+http://23.237.22.230:25461/darkiptv/darkiptv/20
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Discovery Kids
+http://23.237.22.230:25461/darkiptv/darkiptv/31
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Natgeo Kids
+http://23.237.22.230:25461/darkiptv/darkiptv/83
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Nick
+http://23.237.22.230:25461/darkiptv/darkiptv/84
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Nick 2
+http://23.237.22.230:25461/darkiptv/darkiptv/86
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Nick jr
+http://23.237.22.230:25461/darkiptv/darkiptv/87
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Nick toons
+http://23.237.22.230:25461/darkiptv/darkiptv/88
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Tiin
+http://23.237.22.230:25461/darkiptv/darkiptv/110
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Tooncast
+http://23.237.22.230:25461/darkiptv/darkiptv/115
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Dicovery Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/580
+
+#EXTINF:-1 tvg-logo=".png" group-title="Infantil",Locomotion
+http://23.237.22.230:25461/darkiptv/darkiptv/192
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Animal Planet
+http://23.237.22.230:25461/darkiptv/darkiptv/5
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Discovery Channel
+http://23.237.22.230:25461/darkiptv/darkiptv/590
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",H&H
+http://23.237.22.230:25461/darkiptv/darkiptv/29
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",ID
+http://23.237.22.230:25461/darkiptv/darkiptv/30
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Science
+http://23.237.22.230:25461/darkiptv/darkiptv/32
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Theater
+http://23.237.22.230:25461/darkiptv/darkiptv/33
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Turbo
+http://23.237.22.230:25461/darkiptv/darkiptv/34
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",World
+http://23.237.22.230:25461/darkiptv/darkiptv/35
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Natgeo
+http://23.237.22.230:25461/darkiptv/darkiptv/82
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Natgeo Wild
+http://23.237.22.230:25461/darkiptv/darkiptv/85
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",History
+http://23.237.22.230:25461/darkiptv/darkiptv/67
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",H2
+http://23.237.22.230:25461/darkiptv/darkiptv/540
+
+#EXTINF:-1 tvg-logo=".png" group-title="Cultura",Isat
+http://23.237.22.230:25461/darkiptv/darkiptv/71
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",A&E
+http://23.237.22.230:25461/darkiptv/darkiptv/2
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",AMC
+http://23.237.22.230:25461/darkiptv/darkiptv/136
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",AXN
+http://23.237.22.230:25461/darkiptv/darkiptv/7
+
+#EXTINF:-1 tvg-logo=".png" group-title="Entretenimiento",Caracol
+http://23.237.22.230:25461/darkiptv/darkiptv/612
